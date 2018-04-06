@@ -10,16 +10,19 @@ A simple React/Redux app that returns weather results when the user searches a m
 #### Languages Used
 
 HTML
+
 CSS
+
 JavaScript
+
 Reactjs
+
 Redux
 
-#### Boilerplate Dependancies
+#### Not Familiar with Git?
+Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-Webpack
-React
-Babel
-Axios
-Mocha-Chai
-Lodash
+```
+> npm install
+> npm start
+```
