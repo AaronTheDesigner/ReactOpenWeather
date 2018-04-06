@@ -1,7 +1,6 @@
 # React OpenWeather Map
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-See the sample [here](https://reactweather9069.herokuapp.com/).
+See the demo [here](https://reactweather9069.herokuapp.com/).
 
 ### Description
 
