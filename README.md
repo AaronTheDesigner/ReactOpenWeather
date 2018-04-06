@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# React OpenWeather Map
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+See the sample [here](https://reactweather9069.herokuapp.com/).
 
-### Getting Started
+### Description
 
-There are two methods for getting started with this repo.
+A simple React/Redux app that returns weather results when the user searches a major city. Warning: some major cities outside of the western hemisphere (i.e. Tokyo, Soul) are not included. Error handler in progress.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### Languages Used
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+HTML
+CSS
+JavaScript
+Reactjs
+Redux
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Boilerplate Dependancies
 
-```
-> npm install
-> npm start
-```
+Webpack
+React
+Babel
+Axios
+Mocha-Chai
+Lodash
