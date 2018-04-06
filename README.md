@@ -19,10 +19,16 @@ Reactjs
 
 Redux
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Dependancies
 
-```
-> npm install
-> npm start
-```
+Webpack
+
+React
+
+Redux
+
+Moch-Chai
+
+Axios
+
+Babel
